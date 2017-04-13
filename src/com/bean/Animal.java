@@ -2,6 +2,7 @@ package com.bean;
 
 public class Animal {
 private String name;
+private String name1;
 
 public String getName() {
 	return name;
