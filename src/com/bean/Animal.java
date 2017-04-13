@@ -2,7 +2,7 @@ package com.bean;
 
 public class Animal {
 private String name;
-
+private String name2;
 public String getName() {
 	return name;
 }
